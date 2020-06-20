@@ -3,6 +3,10 @@ A repository that contains some helpful links for Web App Development
 
 ## Learnings
 
+Git
+- [Git for beginner](https://rogerdudler.github.io/git-guide/)
+- [Learn Git](https://learngitbranching.js.org/)
+
 HTML & CSS
 - [W3schools](https://www.w3schools.com/html/)
 - [HTML Dogs](https://www.htmldog.com/guides/)
