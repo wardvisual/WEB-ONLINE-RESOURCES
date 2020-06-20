@@ -35,8 +35,6 @@ JavaScript
 - [FreecodeCamp](https://www.freecodecamp.org/)
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 - [JS playgrounds](https://jscomplete.com/playground)
-- [Code wars](https://www.codewars.com/)
-- [Code wars](https://www.codewars.com/)
 
 ## Others
 - [Code wars](https://www.codewars.com/)
