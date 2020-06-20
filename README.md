@@ -7,7 +7,6 @@ HTML & CSS
 - [W3schools](https://www.w3schools.com/html/)
 - [HTML Dogs](https://www.htmldog.com/guides/)
 - [Code Academy](https://www.codecademy.com)
-- [Code wars](https://www.codewars.com/)
 
 CSS flexbox
 - [CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
